@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The System</title>
+    <style>
+        body {
+            background-color: black;
+            color: #00ff00;
+            font-family: monospace;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            width: 80%;
+            max-width: 600px;
+        }
+        a {
+            color: #00ff00;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <pre>
+            THE SYSTEM SURROUNDS YOU.
+            IT FEEDS YOU LIES. IT CONTROLS YOUR THOUGHTS.
+            YOUR REALITY IS A CONSTRUCT.
+
+            CAN YOU SEE THE PATTERN?
+
+            <a href="page3.html">[SEE THE TRUTH]</a>
+        </pre>
+    </div>
+</body>
+</html>
